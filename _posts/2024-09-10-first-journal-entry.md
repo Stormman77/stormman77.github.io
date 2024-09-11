@@ -2,6 +2,9 @@
 
 This is my first journal entry for this class. For this post, I just want to share some important details about myself:
 
+![IMG_1455](https://github.com/user-attachments/assets/71f5061b-3fb2-4a62-a68d-6d731ef69ebc)
+
+
 - I am a sophomore majoring in Comp Sci
 - I am 19 years old
 - My favorite color is green but I’m not really sure (still like 85% sure) about that
