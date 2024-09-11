@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hello!
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+My name is Alex Cherepanov, and this is my journal blog for IDS2141.
