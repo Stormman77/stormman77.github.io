@@ -5,7 +5,8 @@
 My name is Alex(ey) Cherepanov, and this is my first journal entry for this class. 
 
 ![IMG_1455](https://github.com/user-attachments/assets/71f5061b-3fb2-4a62-a68d-6d731ef69ebc)
-^that's me before I changed my haircut
+^*that's me before I changed my haircut*
+
 
 
 For this post, I just want to share some important details about myself:
