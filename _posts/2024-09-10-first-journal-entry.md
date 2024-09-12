@@ -14,6 +14,7 @@ For this post, I just want to share some important details about myself:
 - I am a sophomore majoring in Computer Science
 - I love programming, racing, travelling and playing board games
 - I am 19 years old
+- I have a princess
 - My favorite color is green but I’m not really sure (still like 85% sure) about that
 - I've never had a dog, but I had 3 hamsters
 - I love watching formula 1
