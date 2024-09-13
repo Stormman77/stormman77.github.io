@@ -1,0 +1,1 @@
+Second journal entry
