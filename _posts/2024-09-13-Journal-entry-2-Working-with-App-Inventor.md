@@ -1,5 +1,3 @@
 ## Second journal entry
 
-
-https://github.com/user-attachments/assets/34193d4f-f9b0-4bc1-bff2-6bede42e96f0
-
+![lock-in-silly-cat-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e4041d67-b739-4a03-a609-4b3f9615fe70)
