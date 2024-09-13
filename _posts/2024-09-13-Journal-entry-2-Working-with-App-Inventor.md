@@ -1,1 +1,1 @@
-Second journal entry
+## Second journal entry
