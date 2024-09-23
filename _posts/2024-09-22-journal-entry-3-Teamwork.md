@@ -6,6 +6,6 @@ For this journal entry, I'm writing about the teamwork in our team (2D). We met 
 
 ![image](https://github.com/user-attachments/assets/7f2910d5-cd44-4d77-b8ee-8d9a8c77f4ba)
 
-Also, here is a selfie that we just took as a proog that we actually had a meeting at Strozier:
+Also, here is a selfie that we just took as a proof that we actually had a meeting at Strozier:
 
 ![image](https://github.com/user-attachments/assets/825f9b19-a993-4dba-9bef-0d211c9c9143)
