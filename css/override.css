@@ -44,7 +44,18 @@ hr {
   opacity: 0.3;
 }
 
-img[alt=drawing] { 
-  width: 720px;
-  height: 500px;
+@media screen and (min-width: 400px) {
+  img[alt=drawing] { 
+    width: 90%;
+    height: 62.5%;
+  }
 }
+
+@media screen and (min-width: 800px) {
+  img[alt=drawing] { 
+    width: 720px;
+    height: 500px;
+  }
+}
+
+
