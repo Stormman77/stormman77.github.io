@@ -1,0 +1,11 @@
+## 3D Modeling in Tinkercad
+
+**Overview**
+
+For this journal entry, I'm writing about the chapter in my life called "3D modeling with tinkercad". It included 7 levels, and was one of a journey - some levels were easy, and some made me lose some hair. Here I'm going to write about every single level with screenshots and explanations of struggles that I faced with each one of them.
+
+**Level 1 - PVC pipe cross joint**
+
+Since this is the first level, I kinda expected it to be trivial, and so it was. The whole project consists of 4 details - 2 white cylinders and 2 more void cylinders. Nothing hard, nothing fancy:
+
+
