@@ -43,3 +43,8 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+img[alt=drawing] { 
+  width: 780px;
+  height: 500px;
+}
