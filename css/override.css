@@ -45,14 +45,14 @@ hr {
 }
 
 @media screen and (min-width: 400px) {
-  img[alt=drawing] { 
+  img[alt=image] { 
     width: 90%;
     height: 45%;
   }
 }
 
 @media screen and (min-width: 800px) {
-  img[alt=drawing] { 
+  img[alt=image] { 
     width: 720px;
     height: 500px;
   }
