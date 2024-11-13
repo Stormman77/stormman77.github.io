@@ -54,7 +54,7 @@ This level we completed in class, and overall it was a pretty easy one. However 
 
 ![drawing](https://github.com/user-attachments/assets/54ea47ff-edaa-49c9-95f7-981ebca1d6a3)
 
-##LVL 6 - Bowler hat
+**LVL 6 - Bowler hat**
 
 Link [Here](https://www.tinkercad.com/things/fiGgn4JpyEr-idslvl6)
 
@@ -63,7 +63,7 @@ When I saw the bowler hat that we had to create for this level, I first thought 
 ![drawing](https://github.com/user-attachments/assets/3c78e346-7855-4d8a-b947-c9b9388ab7b4)
 ![drawing](https://github.com/user-attachments/assets/eb230a68-7a36-4530-bc80-73d4d86eec54)
 
-##LVL 7 - Aviator sunglasses
+**LVL 7 - Aviator sunglasses**
 
 Link [Here](https://www.tinkercad.com/things/h1sGev73BrJ-idslvl7)
 
