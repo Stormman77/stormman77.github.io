@@ -72,9 +72,13 @@ This is the hardest level, but I was kinda excited to work on it, maybe because 
 *Creating the lenses*
 
 To create the right shape of the glasses, I used different shapes like cylinders and cubes. I also had to use roof shapes to fill some spaces in between the forms:
+![drawing](https://github.com/user-attachments/assets/721fa5c6-b924-49f7-bbcf-a2c004d924a5)
 ![drawing](https://github.com/user-attachments/assets/9261a5d2-ca25-4dfe-8954-6cc72232a218)
 
-After that, I copied and mirrored the lense to create the second one, and used another pair of lenses that I upscaled and adjusted to be around the main lenses, therefore creating the freame. Then I used giant spheres to create a slight curvature (can be seen from the top of the finished sunglasses):
+After that, I copied and mirrored the lense to create the second one, and used another pair of lenses that I upscaled and adjusted to be around the main lenses, therefore creating the freame:
+![drawing](https://github.com/user-attachments/assets/00915423-a520-45cb-81f0-8afcac82fc23)
+
+Then I used giant spheres to create a slight curvature (can be seen from the top of the finished sunglasses):
 ![drawing](https://github.com/user-attachments/assets/da19ba34-8483-42ef-8aa6-469b2e7150ba)
 
 *Hinges, temples, and temple tips*
