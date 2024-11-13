@@ -87,8 +87,14 @@ Then I created the hinges, small screws, temples and temple tips:
 Finally, I created small details as nose mounts and bridge between the lenses:
 ![drawing](https://github.com/user-attachments/assets/3bf55792-545b-4c73-9e9f-7d73e00076c2)
 
+*Problems and challenges*
 
-All screenshots of the project:
+Overall, this level was not problematic and I enjoyed it. However, if you look closely at the edges of the lense and the frame, you can see it is not ideal and completely smooth. This problem came from the step where I created the lenses with multiple forms, and I suppose that tinkercad just doesn't really work good enough with that many shapes at once.
+
+![drawing](https://github.com/user-attachments/assets/c68253cd-c22b-4792-b254-c3d82468a140)
+![drawing](https://github.com/user-attachments/assets/29ab69f9-6d61-4018-aad9-4182f18cd54e)
+
+*All screenshots of the project:*
 ![drawing](https://github.com/user-attachments/assets/3d3f744b-7ee4-44c1-a55a-889c70a08960)
 ![drawing](https://github.com/user-attachments/assets/67c57efa-aa35-4f39-b517-4c05571d4eff)
 ![drawing](https://github.com/user-attachments/assets/75c181fb-a659-45ae-ad04-ffcb4cc72fe8)
