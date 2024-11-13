@@ -45,32 +45,15 @@ hr {
 }
 
 @media screen and (min-width: 400px) {
-  img[alt=image] { 
+  img[alt=drawing] { 
     width: 90%;
     height: 45%;
   }
 }
 
 @media screen and (min-width: 800px) {
-  img[alt=image] { 
+  img[alt=drawing] { 
     width: 720px;
     height: 500px;
   }
 }
-
-img[alt$=">"] {
-  float: right;
-}
-
-img[alt$="<"] {
-  float: left;
-}
-
-img[alt$="><"] {
-  display: block;
-  max-width: 100%;
-  height: auto;
-  margin: auto;
-  float: none!important;
-}
-
