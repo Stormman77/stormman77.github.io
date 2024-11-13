@@ -72,23 +72,28 @@ This is the hardest level, but I was kinda excited to work on it, maybe because 
 *Creating the lenses*
 
 To create the right shape of the glasses, I used different shapes like cylinders and cubes. I also had to use roof shapes to fill some spaces in between the forms:
+
 ![drawing](https://github.com/user-attachments/assets/721fa5c6-b924-49f7-bbcf-a2c004d924a5)
 ![drawing](https://github.com/user-attachments/assets/9261a5d2-ca25-4dfe-8954-6cc72232a218)
 
-After that, I copied and mirrored the lense to create the second one, and used another pair of lenses that I upscaled and adjusted to be around the main lenses, therefore creating the freame:
+After that, I copied and mirrored the lense to create the second one, and used another pair of lenses that I upscaled and adjusted to be around the main lenses, therefore creating the frame:
+
 ![drawing](https://github.com/user-attachments/assets/00915423-a520-45cb-81f0-8afcac82fc23)
 
 Then I used giant spheres to create a slight curvature (can be seen from the top of the finished sunglasses):
+
 ![drawing](https://github.com/user-attachments/assets/da19ba34-8483-42ef-8aa6-469b2e7150ba)
 
 *Hinges, temples, and temple tips*
 
 Then I created the hinges, small screws, temples and temple tips:
+
 ![drawing](https://github.com/user-attachments/assets/ce23783a-169e-4992-a549-fd778f9e9851)
 
 *Small details*
 
 Finally, I created small details as nose mounts and bridge between the lenses:
+
 ![drawing](https://github.com/user-attachments/assets/3bf55792-545b-4c73-9e9f-7d73e00076c2)
 
 *Problems and challenges*
@@ -99,6 +104,7 @@ Overall, this level was not problematic and I enjoyed it. However, if you look c
 ![drawing](https://github.com/user-attachments/assets/29ab69f9-6d61-4018-aad9-4182f18cd54e)
 
 *All screenshots of the project:*
+
 ![drawing](https://github.com/user-attachments/assets/3d3f744b-7ee4-44c1-a55a-889c70a08960)
 ![drawing](https://github.com/user-attachments/assets/67c57efa-aa35-4f39-b517-4c05571d4eff)
 ![drawing](https://github.com/user-attachments/assets/75c181fb-a659-45ae-ad04-ffcb4cc72fe8)
