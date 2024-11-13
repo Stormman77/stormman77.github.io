@@ -4,7 +4,7 @@
 
 For this journal entry, I'm writing about the chapter in my life called "3D modeling with tinkercad". It included 7 levels, and was one of a journey - some levels were easy, and some made me lose some hair. Here I'm going to write about every single level with screenshots and explanations of struggles that I faced with each one of them.
 
-##LVL 1 - PVC pipe cross joint
+**LVL 1 - PVC pipe cross joint**
 
 Link [Here](https://www.tinkercad.com/things/ePiRqHCUURW-idslvl1)
 
@@ -69,7 +69,7 @@ Link [Here](https://www.tinkercad.com/things/h1sGev73BrJ-idslvl7)
 
 This is the hardest level, but I was kinda excited to work on it, maybe because I love aviator sunglasses. From the beginning it was obvious that the hardest part would be to create the right curvature to the lenses and the frame. My plan was to create the lenses, then the frame around the lenses is the same shape and can be made by copying and changing the size of the lense; after that I would create the hinges, temples, and temple tips; finally, I would create small details like the nose pads and the bridge between the lenses.
 
-**Creating the lenses**
+*Creating the lenses*
 
 To create the right shape of the glasses, I used different shapes like cylinders and cubes. I also had to use roof shapes to fill some spaces in between the forms:
 ![drawing](https://github.com/user-attachments/assets/9261a5d2-ca25-4dfe-8954-6cc72232a218)
@@ -77,12 +77,12 @@ To create the right shape of the glasses, I used different shapes like cylinders
 After that, I copied and mirrored the lense to create the second one, and used another pair of lenses that I upscaled and adjusted to be around the main lenses, therefore creating the freame. Then I used giant spheres to create a slight curvature (can be seen from the top of the finished sunglasses):
 ![drawing](https://github.com/user-attachments/assets/da19ba34-8483-42ef-8aa6-469b2e7150ba)
 
-**Hinges, temples, and temple tips**
+*Hinges, temples, and temple tips*
 
 Then I created the hinges, small screws, temples and temple tips:
 ![drawing](https://github.com/user-attachments/assets/ce23783a-169e-4992-a549-fd778f9e9851)
 
-**Small details**
+*Small details*
 
 Finally, I created small details as nose mounts and bridge between the lenses:
 ![drawing](https://github.com/user-attachments/assets/3bf55792-545b-4c73-9e9f-7d73e00076c2)
@@ -96,7 +96,7 @@ All screenshots of the project:
 ![img](https://github.com/user-attachments/assets/30248b9e-99cd-42b2-8c65-6db9c84a40d9)
 
 **LVL 8 - Bonus**
-This is the project I found in my tinkercad account back from 2017:
+This is the project I found in my tinkercad account back from 2017. It's a parthenon, and it is basically some cubes in the base, columns with smaller columns to create ribs, and a roof:
 
 ![drawing](https://github.com/user-attachments/assets/7a38d518-9fff-49c3-8841-d7bd62b79c51)
 
