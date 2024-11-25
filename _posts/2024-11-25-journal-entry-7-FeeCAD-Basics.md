@@ -68,7 +68,7 @@ I honestly feel like this idea is so genious yet so simple, and there's not much
 
 **P.S.**
 
-By the way, it is my birthday tomorrow (Nov. 26). Just wanted to mention this her since it's technically my blog
+By the way, it is my birthday tomorrow (Nov. 26). Just wanted to mention this here since it's technically my blog
 
 **P.P.S**
 
