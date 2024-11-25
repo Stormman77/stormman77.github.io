@@ -72,7 +72,7 @@ By the way, it is my birthday tomorrow (Nov. 26). Just wanted to mention this he
 
 **P.P.S**
 
-I'm not hinting at anything, but if I got extra credit for my bdsy I'd be happy
+I'm not hinting at anything, but if I got extra credit for my bday I'd be happy
 
 **P.P.P.S**
 
