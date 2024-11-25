@@ -54,3 +54,26 @@ Finally, I used the fillet feature on all sides of the cord threads to make them
 ![image](https://github.com/user-attachments/assets/20bcbcbf-2bec-4ac7-b7cf-ac64ca38c6bb)
 ![image](https://github.com/user-attachments/assets/f466ff29-359b-419d-9345-eea0e715c94a)
 
+**OBJECT 3 - unseparatable objects**
+
+As I mentioned above, I think I have some serious issues with the part of my brain that is responsible for creativity. Coming up with two objects that would not fall apart after being fit together was the hardest part of this whole assignment. And surprisingly (or not), I found the solution when I wasn't even thinking about this assignment - I just accidentaly saw the coin box that my younger sister made using a nesquik box and cutting a hole on the lid. I realized that technically creating a coin box and a coin would satisfy the requirements - coin can be fit into the box, and you can flip, shake and toss the box in any direction and the coin will stay inside.
+
+I honestly feel like this idea is so genious yet so simple, and there's not much for me to comment here. For object A, I just created a box 15x15 cm, and made it void with the walls being 5 mm thick. on the "lid", I created a rectangular slot of 25.02 mm by 2.02 mm. For object B, I just created a coin of 25 by 2 mm. As you can see, the slot is 0.02 mm bigger than the coin dimensions, and that's like that to make it easier to put the coin inside. 
+
+![image](https://github.com/user-attachments/assets/51c671b2-1db7-4145-9546-63334eaf4616)
+![image](https://github.com/user-attachments/assets/6e3baaed-76d7-4483-87a2-d641d7e278cd)
+![image](https://github.com/user-attachments/assets/97b5d1d8-96bd-421b-a639-8676070f6962)
+![image](https://github.com/user-attachments/assets/179dc0b2-8ab0-4de8-a2a2-0164666d9aa3)
+![image](https://github.com/user-attachments/assets/f54a5bde-5795-47a4-bbf5-2313bb42e9b1)
+
+**P.S.**
+
+By the way, it is my birthday tomorrow (Nov. 26). Just wanted to mention this her since it's technically my blog
+
+**P.P.S**
+
+I'm not hinting at anything, but if I got extra credit for my bdsy I'd be happy
+
+**P.P.P.S**
+
+Really really happy :)
