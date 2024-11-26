@@ -72,6 +72,10 @@ I honestly feel like this idea is so genious yet so simple, so there's not much 
 
 ![image](https://github.com/user-attachments/assets/f54a5bde-5795-47a4-bbf5-2313bb42e9b1)
 
+**Conclusion**
+
+It took me about 4 hours to finish this assignment, which I think is kinda scary considering the fact that I only had to create three objects (okay, technically four). I've run into some issues and problems during the process, and sometimes I felt lost in the variety of buttons and functions. However, after Tinkercad, FreeCAD made me feel like I'm actually learning and doing something that actually can be used in the real world problems. Generally speaking, I enjoy 3D modeling, and I think that if I actually devote some time to teach myself all features of the FreeCAD, I'll be able to create some cool and useful stuff with it. Will I actually do that? Probably no. I think that if I'll need to do some complex 3D modeling, I'll find some software that's more capable and is newer. Overall, I think I lied in the intro part and I actually enjoyed this assignment, but I don't wanna do this again (ever (def not in freecad)).
+
 **P.S.**
 
 By the way, it is my birthday tomorrow (Nov. 26). Just wanted to mention this here since it's technically my blog
