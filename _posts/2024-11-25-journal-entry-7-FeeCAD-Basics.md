@@ -58,12 +58,18 @@ Finally, I used the fillet feature on all sides of the cord threads to make them
 
 As I mentioned above, I think I have some serious issues with the part of my brain that is responsible for creativity. Coming up with two objects that would not fall apart after being fit together was the hardest part of this whole assignment. And surprisingly (or not), I found the solution when I wasn't even thinking about this assignment - I just accidentaly saw the coin box that my younger sister made using a nesquik box and cutting a hole in the lid. I realized that creating a coin box and a coin technically would satisfy the requirements - coin can be fit into the box, and you can flip, shake and toss the box in any imaginable and unimaginable ways and the coin will stay inside.
 
-I honestly feel like this idea is so genious yet so simple, so there's not much for me to comment here. The creation process also went with no troubles. For object A, I just created a box 15x15 cm, and made it void with the walls being 5 mm thick. On the top part, I created a rectangular slot of 25.02 mm by 2.02 mm. For object B, I just created a coin of 25 by 2 mm. As you can see, the slot is 0.02 mm bigger than the coin dimensions, and that's like that to make it easier to put the coin inside. 
+I honestly feel like this idea is so genious yet so simple, so there's not much for me to comment here. The creation process also went with no troubles. For object A, I just created a box 15x15 cm, and made it void with the walls being 5 mm thick. On the top part, I created a rectangular slot of 25.02 mm by 2.02 mm. For object B, I just created a coin of 25 by 2 mm in a separate document. As you can see, the slot is 0.02 mm bigger than the coin dimensions, and that's like that to make it easier to put the coin inside. 
 
 ![image](https://github.com/user-attachments/assets/51c671b2-1db7-4145-9546-63334eaf4616)
 ![image](https://github.com/user-attachments/assets/6e3baaed-76d7-4483-87a2-d641d7e278cd)
+
+*Object A*
+
 ![image](https://github.com/user-attachments/assets/97b5d1d8-96bd-421b-a639-8676070f6962)
 ![image](https://github.com/user-attachments/assets/179dc0b2-8ab0-4de8-a2a2-0164666d9aa3)
+
+*Object B*
+
 ![image](https://github.com/user-attachments/assets/f54a5bde-5795-47a4-bbf5-2313bb42e9b1)
 
 **P.S.**
