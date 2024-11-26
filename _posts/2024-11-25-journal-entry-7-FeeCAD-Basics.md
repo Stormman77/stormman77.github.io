@@ -79,12 +79,16 @@ It took me about 4 hours to finish this assignment, which I think is kinda scary
 
 **P.S.**
 
+Sorry that those measurement pics took so long to load, I was too lazy to compress them
+
+**P.P.S.**
+
 By the way, it is my birthday tomorrow (Nov. 26). Just wanted to mention this here. It's my blog after all, right?
 
-**P.P.S**
+**P.P.P.S**
 
 I'm not hinting at anything, but if I got extra credit for my bday I'd be happy
 
-**P.P.P.S**
+**P.P.P.P.S**
 
 Really really happy :)
