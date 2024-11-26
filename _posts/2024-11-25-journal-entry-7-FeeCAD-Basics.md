@@ -78,7 +78,7 @@ It took me about 4 hours to finish this assignment, which I think is kinda scary
 
 **P.S.**
 
-By the way, it is my birthday tomorrow (Nov. 26). Just wanted to mention this here since it's technically my blog
+By the way, it is my birthday tomorrow (Nov. 26). Just wanted to mention this here. It's my blog after all, right?
 
 **P.P.S**
 
