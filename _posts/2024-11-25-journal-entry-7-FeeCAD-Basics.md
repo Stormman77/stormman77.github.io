@@ -20,6 +20,7 @@ For the first object, we just had to complete the tutorial from the internet. Th
 
 The second object we need to create for this assignment is a clip that attaches to the desk edge and holds the charging cable for laptop or anything else. This object is a bit more complicated than the first one simply because there is no tutorial to follow - I need to design, measure, and create the object by myself. According to the requirements, we can't glue or screw the object into the table - it has to hold itself on the edge of the desk with nothing but physics. Before I start this object, I need to measure the diameter of my charging cable and the desk:
 
+![image](https://github.com/user-attachments/assets/63b92e05-dded-4734-99a0-d51572a6a52e)
 ![image](https://github.com/user-attachments/assets/2649d53b-c49d-4ad0-9ebc-b9027aca60bc)
 ![image](https://github.com/user-attachments/assets/047d48dc-14b4-442d-bcec-0355353c5477)
 
