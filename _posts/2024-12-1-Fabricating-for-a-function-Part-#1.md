@@ -6,4 +6,4 @@ This is the first part out of three journal entries related to the 3D printing p
 
 Therefore, I proudly present you my idea - I will create a charging stand for my apple watch! It has a special mode (I think it's called the nightstand mode or alarm mode or something like that) so that when it's connected to the charger, it displays time and notifications and basically works as a nightstand clock. Sometimes I use it when I'm working on my desk, and it's convenient because you can always see what time it is. However, apple watch isn't always stable when sitting on the desk, and the charging cord makes it look worse. I wanna try to create a stand to support the watch itself but also to somehow hide the charging cord. I also wanna mention that I saw those apple watch stands on the Internet, but never really wanted to spend money on one oof those. 
 
->>> [Youtube video link](https://youtube.com/shorts/opXdB5mtCDM) <<<
+> [Youtube video link](https://youtube.com/shorts/opXdB5mtCDM) <
