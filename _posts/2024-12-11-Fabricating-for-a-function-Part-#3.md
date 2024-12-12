@@ -25,5 +25,12 @@ After getting my model and removing all the supports, I found out that the cutou
 
 **VIDEO LINK**
 
+[YouTube video link](https://www.youtube.com/watch?v=hNK4IKWhsx4)
 
+**THANK YOU**
 
+In conclusion, I just wanted to say thank you for the semester - IDS 2141 enters and will forever be in my FSU classes Hall of Fame :)
+
+![image](https://github.com/user-attachments/assets/51722cdb-2b34-4bbf-9e9f-1e44f45272ce)
+![image](https://github.com/user-attachments/assets/e0d07a20-eae5-4896-a28f-8e3493e26a38)
+![image](https://github.com/user-attachments/assets/9143d963-c7a6-4a34-a48f-479f8932c4d0)
